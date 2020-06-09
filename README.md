@@ -8,4 +8,4 @@ This is page ABOUT ME.
 <img src="linkedin%20logo.jpg">
 <img src="Instagram%20logo.png">
 <img src="github1.jpeg">
-<img src="webdev">
+<img src="webdev.jpg">
