@@ -110,3 +110,10 @@ a{
 a{
     text-decoration: none;
 }
+.button{
+  border: 1px solid blueviolet;
+  border-radius: 12px;
+  background-color: blueviolet;
+  color: white;
+  width: 120px;
+}
