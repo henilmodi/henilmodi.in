@@ -9,3 +9,4 @@ This is page ABOUT ME.
 <img src="Instagram%20logo.png">
 <img src="github1.jpeg">
 <img src="webdev.jpg">
+<img src="github-logo.png">
